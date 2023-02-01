@@ -1,0 +1,74 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "malsalih/android_device_oplus_RMX3360",
+        "target_path":  "device/oplus/RMX3360",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "malsalih/android_device_oplus_sm8350-common",
+        "target_path":  "device/oplus/sm8350-common",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_oplus",
+        "target_path":  "hardware/oplus",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
+        "revision":     "topaz-888"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "topaz-888"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_gps",
+        "target_path":  "hardware/qcom/gps",
+        "revision":     "topaz-888"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "topaz-888"
+    },
+    {
+        "remote":       "github",
+        "repository":   "malsalih/android_kernel_oplus_sm8350",
+        "target_path":  "kernel/msm-5.4",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "clo_system",
+        "repository":   "platform/hardware/nxp/nfc",
+        "target_path":  "hardware/nxp/nfc",
+        "revision":     "refs/tags/LA.QSSI.13.0.r1-08200-qssi.0"
+    },
+    {
+        "remote":       "clo_system",
+        "repository":   "platform/hardware/nxp/secure_element",
+        "target_path":  "hardware/nxp/secure_element",
+        "revision":     "refs/tags/LA.QSSI.13.0.r1-08200-qssi.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "malsalih/proprietary_vendor_oplus",
+        "target_path":  "vendor/oplus",
+        "revision":     "topaz"
+    }
+]
