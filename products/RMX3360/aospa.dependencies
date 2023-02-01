@@ -3,13 +3,13 @@
         "remote":       "github",
         "repository":   "malsalih/android_device_oplus_RMX3360",
         "target_path":  "device/oplus/RMX3360",
-        "revision":     "topaz"
+        "revision":     "master"
     },
     {
         "remote":       "github",
         "repository":   "malsalih/android_device_oplus_sm8350-common",
         "target_path":  "device/oplus/sm8350-common",
-        "revision":     "topaz"
+        "revision":     "master"
     },
     {
         "remote":       "aospa",
@@ -45,7 +45,7 @@
         "remote":       "github",
         "repository":   "malsalih/android_kernel_oplus_sm8350",
         "target_path":  "kernel/msm-5.4",
-        "revision":     "topaz"
+        "revision":     "master"
     },
     {
         "remote":       "aospa",
